@@ -1,12 +1,11 @@
-import MovieCard from "./components/MovieCard"
+import Home  from './pages/Home.jsx'
 
 function App (){
 
 return (
 
 <div>
-
-<MovieCard movie={{title:"dhamaal",release_date:"2024"}}/>
+<Home/>
 </div>
 
 
