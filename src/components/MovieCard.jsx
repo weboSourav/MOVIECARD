@@ -1,3 +1,7 @@
+import React from "react";
+import "../css/MovieCard.css";
+
+
 function MovieCard({ movie }) {
   function onFavoriteClick() {
     alert("button clicked");
